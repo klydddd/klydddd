@@ -3,15 +3,13 @@
 Easily change these colors to customize your theme! 
 Example: background: linear-gradient(to bottom, #e0c3fc, #8ec5fc);
 -->
-<div align="center" style="background: linear-gradient(to bottom, #f3e8ff, #ffffff); padding: 40px; border-radius: 20px;">
+<div align="left" style="background: linear-gradient(to bottom, #f3e8ff, #ffffff); padding: 40px; border-radius: 20px;">
 
 <!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Klyde
-</h1>
-<h3 align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=AA81FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;CS+Student;LeetCode+Enthusiast" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=AA81FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;CS+Student;LeetCode+Enthusiast" alt="Typing SVG" />
+<h1>Hi 👋, I'm Klyde</h1>
+<h3>
+  <a href="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=AA81FF&vCenter=true&width=600&lines=Front-End+Developer;CS+Student;LeetCode+Enthusiast" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=AA81FF&vCenter=true&width=600&lines=Front-End+Developer;CS+Student;LeetCode+Enthusiast" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -38,7 +36,7 @@ bringing innovation to the draft-picking scene.
 ---
 
 ### 🧰 My Tech Stack
-<p align="center">
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -59,7 +57,7 @@ bringing innovation to the draft-picking scene.
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=klydddd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Klyde's GitHub stats" height="160px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=klydddd&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="160px"/>
@@ -70,7 +68,7 @@ bringing innovation to the draft-picking scene.
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://fb.com/ekm.apostol" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/klyduu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/klyddd" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
