@@ -35,6 +35,19 @@ bringing innovation to the draft-picking scene.
 
 ---
 
+### 🏆 Hackathon Awards
+* 🥇 **Champion** — Beyond Limits: The AI Hack (Dec 2025)
+  * *Host:* Google Developers Group on Campus - HAU
+  * *Project:* **Dori** — An AI-powered Augmented Reality app helping dementia patients recognize faces and retain memories using **Google Gemini** and **TensorFlow Lite**.
+* 🥈 **2nd Place** — Based Build: B3.Fun Game App Challenge (Oct 2025)
+  * *Host:* DevCon Pampanga x Base Philippines
+  * *Project:* **Cherpents.io** — A competitive Snake game adaptation featuring **Web3 integration**, where power-ups and game states are managed via blockchain transactions.
+* 🥉 **3rd Place** — Alibaba Cloud PH 1st AI Hackathon (Nov 2025)
+  * *Host:* Alibaba Cloud Philippines
+  * *Project:* **Alalay.ph** — An AI assistant bridging the digital divide for Filipino seniors by streamlining access to government services, requirements, and healthcare benefits.
+
+---
+
 ### 🧰 My Tech Stack
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
