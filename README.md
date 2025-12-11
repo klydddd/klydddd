@@ -23,28 +23,21 @@ Example: background: linear-gradient(to bottom, #e0c3fc, #8ec5fc);
 ---
 
 ### 🚀 Featured Project
-🧩 **[MLBB Stream Overlay](https://github.com/klydddd/mlbb-stream-overlays)**  
-An interactive overlay built with **HTML**, **CSS**, and **JavaScript** to enhance **Mobile Legends: Bang Bang** livestreams in **OBS Studio** —  
-bringing innovation to the draft-picking scene.
-
----
-
-### 🧠 Currently Exploring
-🌱 Diving into **Python**, particularly its **AI/ML** capabilities.  
-🗺️ Building a **ReactJS web app** — an **automatic fare matrix calculator** with route visualization to help citizens estimate tricycle fares in my city.
+🧩 **[Dori](https://github.com/jansencruz23/The-Great-Dane-ger-Dori.git)**  
+An AI-powered augmented reality mobile app that helps dementia patients recognize faces, remember daily interactions, and stay connected with loved ones. Built with **Flutter**, **Firebase**, **ML Kit**, **TensorFlow Lite**, and **Google Gemini AI**.
 
 ---
 
 ### 🏆 Hackathon Awards
 * 🥇 **Champion** — Beyond Limits: The AI Hack (Dec 2025)
   * *Host:* Google Developers Group on Campus - HAU
-  * *Project:* **Dori** — An AI-powered Augmented Reality app helping dementia patients recognize faces and retain memories using **Google Gemini** and **TensorFlow Lite**.
+  * *Project:* **[Dori](https://github.com/jansencruz23/The-Great-Dane-ger-Dori.git)**  — An AI-powered Augmented Reality app helping dementia patients recognize faces and retain memories using **Google Gemini** and **TensorFlow Lite**.
 * 🥈 **2nd Place** — Based Build: B3.Fun Game App Challenge (Oct 2025)
   * *Host:* DevCon Pampanga x Base Philippines
   * *Project:* **Cherpents.io** — A competitive Snake game adaptation featuring **Web3 integration**, where power-ups and game states are managed via blockchain transactions.
 * 🥉 **3rd Place** — Alibaba Cloud PH 1st AI Hackathon (Nov 2025)
   * *Host:* Alibaba Cloud Philippines
-  * *Project:* **Alalay.ph** — An AI assistant bridging the digital divide for Filipino seniors by streamlining access to government services, requirements, and healthcare benefits.
+  * *Project:* **[Alalay.PH](https://github.com/yeruka-ui/Alalay.PH.git)**  — An AI assistant bridging the digital divide for Filipino seniors by streamlining access to government services, requirements, and healthcare benefits.
 
 ---
 
@@ -72,10 +65,7 @@ bringing innovation to the draft-picking scene.
 ### 📊 GitHub Stats
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=klydddd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Klyde's GitHub stats" height="160px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=klydddd&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="160px"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=klydddd&theme=tokyonight&no-frame=true&row=1&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
